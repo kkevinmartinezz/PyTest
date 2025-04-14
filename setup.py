@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'pygraspi_test',         # How you named your package folder (MyLib)
   packages = ['src'],   # Chose the same as "name"
-  version = '0.1.2',      # Start with a small number and increase it with every change you make
+  version = '0.1.3',      # Start with a small number and increase it with every change you make
   license='Apache 2.0',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Testing out how setting up a pypi package is done correctly',   # Give a short description about your library
   author = 'Kevin E. Martinez Sanchez',                   # Type in your name
