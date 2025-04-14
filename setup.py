@@ -11,7 +11,7 @@ setup(
   author = 'Kevin E. Martinez Sanchez',                   # Type in your name
   author_email = 'kevin425.m@hotmail.com',      # Type in your E-Mail
   url = 'https://github.com/kkevinmartinezz/PyTest',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kkevinmartinezz/PyTest/archive/refs/tags/v_02.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kkevinmartinezz/PyTest/archive/refs/tags/v_02.2.tar.gz',    # I explain this later on
   keywords = ['testing', 'pygraspi', 'example'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'notebook',
