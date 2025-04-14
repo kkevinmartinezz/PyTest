@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 setup(
   name = 'PyTest',         # How you named your package folder (MyLib)
   packages = ['src'],   # Chose the same as "name"
@@ -8,7 +8,7 @@ setup(
   author = 'Kevin E. Martinez Sanchez',                   # Type in your name
   author_email = 'kem44@buffalo.edu',      # Type in your E-Mail
   url = 'https://github.com/kkevinmartinezz/PyTest',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kkevinmartinezz/PyTest/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['testing', 'pygraspi', 'example'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'notebook',
