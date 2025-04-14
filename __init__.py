@@ -1,2 +1,1 @@
-import src.helloWorld_elyuz
-import src.helloWorld_elyuz.operations_elyuz
+import PyTest.src.pygraspi_test.operations_elyuz
